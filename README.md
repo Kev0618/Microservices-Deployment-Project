@@ -10,6 +10,8 @@ https://github.com/Kev0618/Microservices-Deployment-Project.git
 
 https://github.com/Kev0618/Microservices-Deployment-Project
 
+Alle Aufgaben sind auf einem gesonderten Branch nachhzuvollziehen.
+
 ## Voraussetzungen
 
 Bevor Sie mit diesem Projekt beginnen, stellen Sie sicher, dass Sie die folgenden Tools installiert haben:
