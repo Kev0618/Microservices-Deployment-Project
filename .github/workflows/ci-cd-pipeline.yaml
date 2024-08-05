@@ -31,8 +31,7 @@ jobs:
 
       - name: Run tests
         run: |
-          # Hier sollten Ihre Tests ausgeführt werden
-          echo "Running tests..."
+         echo Running Test
 
   build:
     runs-on: ubuntu-latest
